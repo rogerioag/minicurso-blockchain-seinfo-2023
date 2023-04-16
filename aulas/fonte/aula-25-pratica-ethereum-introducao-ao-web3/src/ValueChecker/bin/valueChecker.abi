@@ -1,0 +1,1 @@
+[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"bool","name":"returnValue","type":"bool"}],"name":"valueEvent","type":"event"},{"inputs":[{"internalType":"uint8","name":"x","type":"uint8"}],"name":"Matcher","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"}]

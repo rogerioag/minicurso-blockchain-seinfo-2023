@@ -1,0 +1,25 @@
+\frametitle{Ferramentas e Bibliotecas}
+\protect\hypertarget{ferramentas-e-bibliotecas}{}
+\begin{itemize}
+\tightlist
+\item
+  \texttt{Ganache}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Simula um Blockchain Ethereum pessoal com uma interface com usuário
+    (UI), comumente usada no desenvolvimento e testes.
+  \end{itemize}
+\item
+  \texttt{Ganache-cli}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Versão linha de comando do \texttt{Ganache} tem como pre-requisito
+    \texttt{NodeJS}.
+  \end{itemize}
+\end{itemize}
+
+\includegraphics{figuras/ganache-interface.pdf}

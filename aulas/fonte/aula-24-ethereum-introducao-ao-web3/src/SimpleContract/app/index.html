@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <title>SimpleContract Interactor</title>
+    
+</head>
+
+<body>
+    <p>Enter your value:</p>
+    <input type="text" id="txtValue" value="">
+    <p>Click the "get decision" button to get the decision from the smart contract.</ p>
+        <button onclick="myFunction()">get decision</button>
+    <p id="decision"></p>
+    <p>Calling the contract manually with hardcoded values, result logged in browser
+        debug console:</p>
+    <button onclick="callMatcherTrue()">callTrue</button>
+    <button onclick="callMatcherFalse()">callFalse</button>
+
+    <script type = "text/javascript" src="./app.js"></script>  
+    <script type = "text/javascript" src="./web3.min.js"></script>
+</body>
+
+</html>
